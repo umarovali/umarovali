@@ -9,13 +9,13 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=HojiakbarMirzakarimov&show_icons=true&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=umarov-ali&show_icons=true&theme=radical"
         alt="GitHub Stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HojiakbarMirzakarimov&layout=compact&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarov-ali&layout=compact&theme=radical"
         alt="Top Langs"
       />
     </td>
